@@ -26,10 +26,6 @@ Con tu talento, busca lograr:
 
 ¡Tus contribuciones son bienvenidas! Si tienes sugerencias, mejoras o correcciones, no dudes en enviar un pull request. ¡Juntos hacemos crecer este proyecto!
 
-## Contacto
-
-Para cualquier consulta o duda, puedes contactar a [Estefany Aguilar](https://github.com/estefanyaguilar).
-
 ## Autor 👨‍💻
 
 - **Nombre:** Javier Damiani
